@@ -9,11 +9,15 @@
 * [Repositorio Profesor](https://github.com/JePaFe/Talento-Tech-Comision-25023-Back-End-Node-JS)
 
 
-**CLASE 01**
+**CLASE 01 - Presentacion**
 
 * Sobre Talento Tech
 * Objetivo del curso y lineamientos de cursada
 * Herramientas a utilizar
 * Instalación del software
 
+**CLASE 02 - Introduccion Node JS**
+* Fundamentos de Node Js
+* Diferencias con Javascript en el browser
+* Ejemplos Bloqueante , NO Bloqueante , Promesas
 
