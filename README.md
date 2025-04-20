@@ -21,3 +21,16 @@
 * Diferencias con Javascript en el browser
 * Ejemplos Bloqueante , NO Bloqueante , Promesas
 
+**CLASE 03 - Funciones, Arrays y Methods**
+* Funciones Flecha
+* Parametos y Argumentos de Funciones
+* Funciones de Orden Superior ( callback )
+* Arrays
+* Metodos de Arrays
+* Uso de backticks
+
+***Documentacion***
+* [Funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions)
+* [Array](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [backticks](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Template_literals)
+* [Libro JavaScript](https://www.eloquentjavascript.es/)
