@@ -6,20 +6,21 @@ console.log(`Longitud del Array ${fruits.length}`);
 console.log(`Consulta Index 2 Array ${fruits[2]}`);
 
 /* Metodos de Arrays */
+console.log(`***** Metodos de Arrays *****`);
 
-fruits.push('Kiwi1') /* Agrega al INICIO del Array */
-fruits.unshift('Kiwi2') /* Agrega al FINAL del Array */
-
+console.log(`** Metodos unshift - push **`);
+fruits.unshift('Kiwi1') /* Agrega al INICIO del Array */
+fruits.push('Kiwi2') /* Agrega al FINAL del Array */
 console.log(fruits);
 
-
-fruits.pop() /* Elimina al INICIO del Array */
-fruits.shift() /* Elimina al FINAL del Array */
-
+console.log(`** Metodos shift - pop **`);
+fruits.shift() /* Elimina al INICIO del Array */
+fruits.pop()  /* Elimina al FINAL del Array */
 console.log(fruits);
 
 
 /* Unir elementos de Array en una cadena String */
+console.log(`Metodos join `);
 console.log(fruits.join(' <- -> '));
 
 /* Recorrer un Array */
@@ -57,11 +58,3 @@ console.log(`Metodo .map del Array prices ${prices.map((precio) => precio * 1.21
 /* Metodo .reduce */
 
 console.log(`Metodo .reduce del Array prices ${prices.reduce((total , precio) => total + precio , 0)}`);
-
-
-/* Iteradores de Array */
-
-for (let fruta of fruits) {
-    console.log(fruta);
-    
-}
