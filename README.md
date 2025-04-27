@@ -34,3 +34,13 @@
 * [Array](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [backticks](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Template_literals)
 * [Libro JavaScript](https://www.eloquentjavascript.es/)
+
+**Clase N° 4 - Objetos, clases y operadores avanzados**
+* Objetos: Definición , Características de los objetos y Tipos de objetos
+* Clases: Sugar Syntax , Similitud con objetos funcionales , Método constructor
+* Operadores avanzados: Destructuring operator - Spread operator
+
+***Documentacion***
+* [Objetos](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_objects)
+* [Clases](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Classes)
+* [Operadores avanzados](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
