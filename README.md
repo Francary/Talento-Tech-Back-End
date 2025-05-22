@@ -44,3 +44,25 @@
 * [Objetos](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_objects)
 * [Clases](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Classes)
 * [Operadores avanzados](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+
+**Clase N° 5 - Módulos y gestores de paquetes**
+
+* Gestores de paquetes:
+   - Que son ?
+   - Para que sirven ?
+   
+* NPM - Node Package Manager:
+   - Instalación de paquetes
+   - Creación de scripts
+   - Gestión de dependencias.
+
+* Inicio de un proyecto nuevo con Node Js y NPM
+* Módulos Nativos
+* Módulos de terceros
+* Dirname: Gestión de rutas absolutas y acceso a archivos del servidor
+
+***Documentacion***
+* [Introduccion a NPM](https://nodejs.org/es/learn/getting-started/introduction-to-nodejs)
+* [NPM Documentacion](https://docs.npmjs.com/)
+* [Modulos en Node JS](https://nodejs.org/docs/latest/api/packages.html)
+* [Modulo process](https://nodejs.org/docs/latest/api/process.html#processargv)

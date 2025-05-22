@@ -1,0 +1,28 @@
+{
+  "name": "05clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " nodemon index.js",
+    "start": "node index.js",
+    "prueba": "node Ejercicios/ejercicio05.js",
+    "start GET": "Toma un dato",
+    "start POST {data}" : "Recibimos {data} satisfactoriamente",
+    "start PUT {id}": "Modificamos el item con id: {id} satisfactoriamente",
+    "start DELETE {id}" : "El item con el id: {id} se eliminó con éxito"
+
+
+  },
+  "keywords": [],
+  "author": "Francary",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "nodemailer": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
