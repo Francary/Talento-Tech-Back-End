@@ -66,3 +66,16 @@
 * [NPM Documentacion](https://docs.npmjs.com/)
 * [Modulos en Node JS](https://nodejs.org/docs/latest/api/packages.html)
 * [Modulo process](https://nodejs.org/docs/latest/api/process.html#processargv)
+
+**Clase N° 6 - Asincronismo**
+1. Fundamentos del asincronismo
+2. Manejo de promesas:
+   * callbacks
+   * then, catch & finally
+   * async & await
+3. Fetch: consumiendo datos externos
+
+***Documentacion***
+* [Event Loop en Node JS](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick)
+* [Aprende más sobre la API Fetch y sus capacidades:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+* [Una alternativa a Fetch para solicitudes HTTP avanzadas:](https://github.com/axios/axios)
