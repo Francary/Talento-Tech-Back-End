@@ -1,4 +1,4 @@
-const url = 'https://fakestoreapi.com/products'
+const url = 'https://fakestoreapi.com'
 
 const config = {
     method: 'GET',
@@ -10,21 +10,27 @@ const config = {
 }
 
 
-fetch( url , config)
+fetch( `${url}/products` , config)
 .then((response) => response.json( ) )
-.then((data) => console.log(data));
+.then((data) => {
+    console.log(`---------> RESPUESTA PRODUCTOS <-----------`);
+    console.log(data)
+ });
 
 
-// const config = {
-// method: 'POST',
-// headers: {
-// 'Content-Type' : 'application/json',
-// 'Authorization' : 'Bearer token',
-// },
-// body: JSON.stringify({ key: 'value' }),
-// }
+const users = async () =>{
+    
+    try {
+        
+        const response = await fetch(`${url}/users` , config)
+        const data = await response.json()
+        console.log(`---------> RESPUESTA USERS <-----------`);
+        console.log(data);
+    } catch (error) {
+        console.log(error);
+        
+    }
+ 
+}
 
-// fetch('https://fakestoreapi.com/products', config)
-// .then(response => response.json( ) )
-// .then(data => console.log(data))
-// .catch(error => console.error( 'Error:', error) );
+users()
