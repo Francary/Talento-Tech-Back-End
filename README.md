@@ -79,3 +79,48 @@
 * [Event Loop en Node JS](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick)
 * [Aprende más sobre la API Fetch y sus capacidades:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * [Una alternativa a Fetch para solicitudes HTTP avanzadas:](https://github.com/axios/axios)
+
+**Clase N° 7 - Como funciona la Web**
+1. ¿Como funciona Internet?
+   * Protocolo TCP/IP
+2. Modelo Cliente/Servidor
+3. Protocolo de comunicación
+   * Introducción a HTTP
+* HTTP Seguro
+   * Certificados de seguridad
+4. HTTP en profundidad
+   * Métodos HTTP
+   * Headers
+   * Body
+   * Códigos de estado
+5. URI: URL + URN
+
+***Documentacion***
+* [Cliente-servidor](https://es.wikipedia.org/wiki/Cliente-servidor)
+* [Códigos de estado de respuesta HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Reference/Status)
+* [Métodos de petición HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Reference/Methods)
+
+
+**Clase N° 8 Servidores Web y patrones de Arquitectura**
+
+1. Servidores
+
+   * ¿Qué es un servidor?
+
+   * ¿Cómo funciona un servidor?
+
+   * Tipos de Servidores
+
+   * Servidores Web
+
+   * Alojamiento y Hostings
+
+2. Patrones de Arquitectura
+
+3. MVC vs API Rest
+
+***Documentacion***
+
+* [Introducción a las API REST](https://restfulapi.net/)
+* [Documentación sobre patrones de arquitectura](https://martinfowler.com/)
+* [Postman](https://www.postman.com/)
