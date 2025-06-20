@@ -104,15 +104,10 @@
 **Clase N° 8 Servidores Web y patrones de Arquitectura**
 
 1. Servidores
-
    * ¿Qué es un servidor?
-
    * ¿Cómo funciona un servidor?
-
    * Tipos de Servidores
-
    * Servidores Web
-
    * Alojamiento y Hostings
 
 2. Patrones de Arquitectura
@@ -124,3 +119,17 @@
 * [Introducción a las API REST](https://restfulapi.net/)
 * [Documentación sobre patrones de arquitectura](https://martinfowler.com/)
 * [Postman](https://www.postman.com/)
+
+**Clase N° 9: Creando un Servidor Web**
+
+* Creando un Servidor Web
+* Servidor Web Node Nativo
+* Express JS
+* Middlewares
+* Subiendo el proyecto a la nube
+   - GIT
+   - GITHUB
+
+***Documentacion***
+
+* [Uso de path](https://nodejs.org/api/path.html)
