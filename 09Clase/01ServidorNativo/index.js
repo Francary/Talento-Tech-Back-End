@@ -1,4 +1,3 @@
-import { log } from 'console'
 import http from 'http'
 
 const server = http.createServer((req , res) =>{
@@ -8,8 +7,6 @@ const server = http.createServer((req , res) =>{
 
     res.end(`Hola, Mundo ....`)
 })
-
-
 
 const PORT = 3000;
 

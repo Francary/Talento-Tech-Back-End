@@ -13,11 +13,9 @@ app.listen(PORT, () =>{
     
 })
 
-
 app.get('/productos', (req, res) => {
-res. send( 'Bienvenida a la pagina de productos' );
+res.send( 'Bienvenida a la pagina de productos' );
 })
-
 
 app.get(`/productos/:id`, (req, res) => {
 const { id } = req.params
