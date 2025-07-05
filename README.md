@@ -133,3 +133,10 @@
 ***Documentacion***
 
 * [Uso de path](https://nodejs.org/api/path.html)
+
+**Clase N° 10: Modelando una API Rest**
+
+* API Rest
+* Estructura de archivos
+* Capas de la aplicación
+* División de responsabilidades
