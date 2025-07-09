@@ -140,3 +140,10 @@
 * Estructura de archivos
 * Capas de la aplicación
 * División de responsabilidades
+
+**Clase N° 11: Request & Response**
+* Rutas
+* CORS: solicitudes entre dominios
+* Error Handle (404)
+* Rutas parametrizadas
+* POSTMAN
