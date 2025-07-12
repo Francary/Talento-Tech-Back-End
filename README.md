@@ -147,3 +147,9 @@
 * Error Handle (404)
 * Rutas parametrizadas
 * POSTMAN
+
+**Clase N° 12: Capa Logica**
+* Express Router
+* Controladores
+* Servicios
+* Arquitectura basada en capas
